@@ -1,0 +1,12 @@
+Overall Accuracy 0.88 
+
+Classifier:  0  Accuracy:  0.911111111111
+Classifier:  1  Accuracy:  0.888888888889
+Classifier:  2  Accuracy:  0.941747572816
+Classifier:  3  Accuracy:  0.87
+Classifier:  4  Accuracy:  0.971962616822
+Classifier:  5  Accuracy:  0.978260869565
+Classifier:  6  Accuracy:  0.956043956044
+Classifier:  7  Accuracy:  0.849056603774
+Classifier:  8  Accuracy:  0.796116504854
+Classifier:  9  Accuracy:  0.65
